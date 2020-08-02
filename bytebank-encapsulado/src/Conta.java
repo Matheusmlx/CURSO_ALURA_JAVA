@@ -4,7 +4,7 @@ class Conta {
     private double saldo;
     private int agencia;
     private int numero;
-    Cliente titular = new Cliente();
+    private Cliente titular = new Cliente();
 
     //metodo  = como uma classe ira se comportar
     // this = faz referencia ao objeto de referencia
@@ -31,20 +31,28 @@ class Conta {
         return false;
     }
 
-    public double getSaldo(){
-        return this.saldo;
+
+    public int getAgencia() {
+        return agencia;
     }
 
-    public int getNumero(){
-        return this.numero;
-    }
-    public void setNumero(int novoNumero){
-        this.numero = numero;
-    }
-    public int getAgencia(){
-        return this.agencia;
-    }
-    public void setAgencia(int novaAgencia){
+    public void setAgencia(int agencia) {
         this.agencia = agencia;
     }
- }
+
+    public int getNumero() {
+        return numero;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public Cliente getTitular() {
+        return titular;
+    }
+
+    public void setTitular(Cliente titular) {
+        this.titular = titular;
+    }
+}

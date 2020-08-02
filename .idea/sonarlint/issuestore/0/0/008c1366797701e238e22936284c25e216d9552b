@@ -1,0 +1,9 @@
+
+S
+java:S1172)"1Remove this unused method parameter "novoNumero".(ù³»ÿýÿÿÿÿ8óªíçº.
+†
+java:S4165*"dRemove this useless assignment; "numero" already holds the assigned value along all execution paths.(­Žùˆÿÿÿÿÿ8óªíçº.
+‡
+java:S41650"eRemove this useless assignment; "agencia" already holds the assigned value along all execution paths.(ËÃü¤ýÿÿÿÿ8Üðíçº.
+T
+java:S1172/"2Remove this unused method parameter "novaAgencia".(¸úìÅÿÿÿÿÿ8Üðíçº.
