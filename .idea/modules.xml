@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CURSO_ALURA_JAVA.iml" filepath="$PROJECT_DIR$/.idea/CURSO_ALURA_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-conta-herdado/bytebank-conta-herdado.iml" filepath="$PROJECT_DIR$/bytebank-conta-herdado/bytebank-conta-herdado.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA/sintaxe-basica/sintaxe-basica.iml" filepath="$PROJECT_DIR$/JAVA/sintaxe-basica/sintaxe-basica.iml" />

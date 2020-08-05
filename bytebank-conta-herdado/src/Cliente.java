@@ -1,11 +1,9 @@
-// nao pode instanciar dessa classe, pq é abstrata
-public abstract class Funcionario {
+public class Cliente {
 
     private String nome;
     private String cpf;
-    private double salario;
+    private String profissao;
 
-    public  abstract double getBonificacao();
 
     public String getNome() {
         return nome;
@@ -23,11 +21,11 @@ public abstract class Funcionario {
         this.cpf = cpf;
     }
 
-    public double getSalario() {
-        return salario;
+    public String getProfissao() {
+        return profissao;
     }
 
-    public void setSalario(double salario) {
-        this.salario = salario;
+    public void setProfissao(String profissao) {
+        this.profissao = profissao;
     }
 }

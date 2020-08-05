@@ -7,14 +7,14 @@ public class TesteReferencias {
         gerenteMatheus.setSalario(5000.0);
         System.out.println(gerenteMatheus.getNome());
 
-        Funcionario funcionario1 = new  Gerente();
-        funcionario1.setSalario(2000.0);
+        Funcionario funcionario = new Gerente();
+        funcionario.setSalario(2000.0);
 
 
         ControleBolificacao controle = new ControleBolificacao();
         controle.registra(gerenteMatheus);
         System.out.println(controle.getSoma());
-        controle.registra(funcionario1);
+        controle.registra(funcionario);
 
 
     }

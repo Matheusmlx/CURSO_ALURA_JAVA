@@ -19,7 +19,7 @@ public class Gerente extends  Funcionario{
     //super -- referente a classe mae
     public double getBonificacao(){
         //aproveitando o metodo da classe mãe pelo super.Bonificacao
-        return super.getBonificacao() +  super.getSalario();
+        return this.getSalario();
     }
 
 

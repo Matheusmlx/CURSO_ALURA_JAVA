@@ -1,6 +1,6 @@
 public class TesteFuncionario {
     public static void main(String[] args) {
-        Funcionario funcionario1 = new Funcionario() ;
+        Funcionario funcionario1 = new Gerente() ;
 
         funcionario1.setNome("Matheus Luiz");
         funcionario1.setSalario(1.200);
