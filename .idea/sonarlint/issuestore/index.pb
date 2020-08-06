@@ -29,3 +29,11 @@ W
 'bytebank-conta-herdado/src/Cliente.java,e/c/ec663d5023f34e387913c4e194b3056a64f3a425
 U
 %bytebank-conta-herdado/src/Conta.java,5/7/57da6c6d65d7ec7c118d19eca1666639348b1124
+]
+-bytebank-conta-herdado/src/ContaCorrente.java,0/0/002907585846c54496c74338d4fb8e01ac024b97
+[
++bytebank-conta-herdado/src/TesteContas.java,9/8/989722010eec41087f05c553d980c8e47e86ae7f
+]
+-bytebank-conta-herdado/src/ContaPoupanca.java,3/3/33517807be272089c5fac59028795d205a309354
+X
+(bytebank-herdado/src/SistemaInterno.java,e/8/e894a9ef6395346893a1b49422194304a0a24583

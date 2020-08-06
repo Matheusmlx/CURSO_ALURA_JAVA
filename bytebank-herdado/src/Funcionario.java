@@ -15,6 +15,8 @@ public abstract class Funcionario {
         this.nome = nome;
     }
 
+
+
     public String getCpf() {
         return cpf;
     }

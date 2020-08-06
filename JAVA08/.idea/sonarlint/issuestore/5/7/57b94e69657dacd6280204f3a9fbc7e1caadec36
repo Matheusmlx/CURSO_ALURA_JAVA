@@ -1,0 +1,6 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(πχ8Ώγπω».
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªΜ¶•8ο§πω».
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ΜΗδυόÿÿÿÿ8¨οφω».

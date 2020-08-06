@@ -1,5 +1,11 @@
 public class TesteGerente {
     public static void main(String[] args) {
+
+        Gerente gerente  = new Gerente();
+        gerente.setSenha(2222);
+
+        System.out.println(gerente.autentica(2222));
+
         Gerente g1  = new Gerente();
         g1.setNome("Matheus");
         g1.setCpf("2125");
