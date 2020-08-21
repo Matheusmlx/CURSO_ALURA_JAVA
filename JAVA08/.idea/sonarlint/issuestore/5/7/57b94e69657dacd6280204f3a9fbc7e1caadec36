@@ -1,6 +1,11 @@
 
-T	java:S106"9Replace this use of System.out or System.err by a logger.(ğ÷š8¿ãğù».
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ìï…øÿÿÿÿ8 š¿×½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ×ÿ€8ì¶Ç×½.
+E
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8ì¶Ç×½.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ğ÷š8¿ ‡×½.
+]	java:S125"<This block of commented-out lines of code should be removed.(Õ …‚úÿÿÿÿ8ËŸ’×½.
 v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÌ¶•8ï§ğù».
-i
-java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ÌÇäõüÿÿÿÿ8¨ïöù».
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÌ¶•8’‡¹±¼.
+]	java:S125"<This block of commented-out lines of code should be removed.( Ûüıÿÿÿÿ8×İ¿×½.
+]	java:S125"<This block of commented-out lines of code should be removed.(×ÜœÑûÿÿÿÿ8×İ¿×½.

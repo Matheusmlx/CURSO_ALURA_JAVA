@@ -1,0 +1,18 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Ùï”œ8Ö§ÊØ½.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(â’ß~8ÌÏ»Ø½.
+X	java:S125"<This block of commented-out lines of code should be removed.(“á€ê8î¬¬Ø½.
+]	java:S125+"<This block of commented-out lines of code should be removed.( Ûüıÿÿÿÿ8â³¼Ø½.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÌ¶•8·šØ½.
+X	java:S1253"<This block of commented-out lines of code should be removed.(¦¢¥ö8íàÎØ½.
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(ğ÷š8™úÉØ½.
+]	java:S125&"<This block of commented-out lines of code should be removed.(éì¡§ıÿÿÿÿ8Ö§ÊØ½.
+]	java:S125!"<This block of commented-out lines of code should be removed.(Ñá Çûÿÿÿÿ8¿•­Ø½.
+[
+java:S1128">Remove this unused import 'sun.security.krb5.internal.PAData'.(§ˆ–8Õ­ÉØ½.
+X	java:S1257"<This block of commented-out lines of code should be removed.(“á€ê8‘˜ÑØ½.
+]	java:S125("<This block of commented-out lines of code should be removed.(×ÜœÑûÿÿÿÿ8­÷°Ø½.
+X	java:S125"<This block of commented-out lines of code should be removed.(ø¦ù’8Áƒ‰Ø½.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(§ˆ–8Õ­ÉØ½.
