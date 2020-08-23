@@ -37,3 +37,13 @@ U
 -bytebank-conta-herdado/src/ContaPoupanca.java,3/3/33517807be272089c5fac59028795d205a309354
 X
 (bytebank-herdado/src/SistemaInterno.java,e/8/e894a9ef6395346893a1b49422194304a0a24583
+U
+%bytebank-herdado/src/Programador.java,4/8/48827218e189b1d78387d897968ee6464388b504
+V
+&bytebank-herdado/src/Autenticavel.java,f/b/fb78298c33ee5e3c5705df2d3b9d8ba8d8fe802c
+Q
+!bytebank-herdado/src/Cliente.java,4/c/4c93978230dc116b36c24b1f87dda270654b4a28
+W
+'bytebank-herdado/src/Administrador.java,e/9/e969589a42bbcb82f2bd46e2a8fa65f9d7f86a33
+V
+&bytebank-herdado/src/TesteSistema.java,a/1/a11a969342345d3f6d403315b20cfa992ada38a8

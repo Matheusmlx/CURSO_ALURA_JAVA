@@ -1,10 +1,10 @@
 
 \
 java:S1854":Remove this useless assignment to local variable "funcao".(òÏâ€ùÿÿÿÿ8€Û·Ã¿.
-M
-java:S1481"+Remove this unused "funcao" local variable.(òÏâ€ùÿÿÿÿ8€Û·Ã¿.
-X	java:S125"<This block of commented-out lines of code should be removed.(ø¦ù’8ƒ‰´Ã¿.
 S
 java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
 M	java:S106"9Replace this use of System.out or System.err by a logger.(ğ÷š
 T	java:S106"9Replace this use of System.out or System.err by a logger.(â’ß~8ıÄÃ¿.
+M
+java:S1481"+Remove this unused "funcao" local variable.(òÏâ€ùÿÿÿÿ8€Û·Ã¿.
+X	java:S125"<This block of commented-out lines of code should be removed.(ø¦ù’8ƒ‰´Ã¿.

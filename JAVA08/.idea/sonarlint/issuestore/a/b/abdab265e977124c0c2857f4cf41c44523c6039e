@@ -1,0 +1,44 @@
+
+`
+java:S1854'"DRemove this useless assignment to local variable "formatadorManual".(Œ¨™8Ù®šòÀ.
+M
+java:S1481"+Remove this unused "perido" local variable.(ÀÜ–­øÿÿÿÿ8Š™óñÀ.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(«—€™ÿÿÿÿÿ8öÁíòÀ.
+X
+java:S1481<"<Remove this unused "formatadorDateAndTimePM" local variable.(…‘À8×ààòÀ.
+X	java:S1255"<This block of commented-out lines of code should be removed.(ë©š¸8¤°òÀ.
+Z
+java:S1854"8Remove this useless assignment to local variable "anos".(›ıìÖÿÿÿÿÿ8áÇøñÀ.
+X	java:S1251"<This block of commented-out lines of code should be removed.(ÁÔõ¢8Ç±òÀ.
+Q
+java:S1481%"4Remove this unused "formatadorLocal" local variable.(ú¡¿Ä8ÊÕåòÀ.
+]
+java:S1854";Remove this useless assignment to local variable "periodo".(¨›”§ÿÿÿÿÿ8‚â÷ñÀ.
+]	java:S125>"<This block of commented-out lines of code should be removed.(Í©ªæùÿÿÿÿ8×ààòÀ.
+h
+java:S1854:"KRemove this useless assignment to local variable "formatadorDateAndTimeAM".(ø¿¡8àªèòÀ.
+g
+java:S1854<"KRemove this useless assignment to local variable "formatadorDateAndTimePM".(…‘À8×ààòÀ.
+K
+java:S1481")Remove this unused "anos" local variable.(›ıìÖÿÿÿÿÿ8áÇøñÀ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¤‘Ã™8…¼ãòÀ.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Ò†8Êÿ§òÀ.
+G
+java:S14818"*Remove this unused "agora" local variable.(§À§°8×ààòÀ.
+Y
+java:S1481:"<Remove this unused "formatadorDateAndTimeAM" local variable.(ø¿¡8àªèòÀ.
+X	java:S125)"<This block of commented-out lines of code should be removed.(™Æ°æ8›—©òÀ.
+N
+java:S1481",Remove this unused "periodo" local variable.(¨›”§ÿÿÿÿÿ8‚â÷ñÀ.
+`
+java:S1854%"CRemove this useless assignment to local variable "formatadorLocal".(ú¡¿Ä8ÊÕåòÀ.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÁìğ8ß÷¡òÀ.
+V
+java:S18548"9Remove this useless assignment to local variable "agora".(§À§°8×ààòÀ.
+\
+java:S1854":Remove this useless assignment to local variable "perido".(ÀÜ–­øÿÿÿÿ8Š™óñÀ.
+W	java:S125"<This block of commented-out lines of code should be removed.(åàñA8 Ì©òÀ.
+Q
+java:S1481'"5Remove this unused "formatadorManual" local variable.(Œ¨™8Ù®šòÀ.
+]	java:S125"<This block of commented-out lines of code should be removed.(²à§êıÿÿÿÿ8‚â÷ñÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È­ÚÕÿÿÿÿÿ8ØÔÌñÀ.

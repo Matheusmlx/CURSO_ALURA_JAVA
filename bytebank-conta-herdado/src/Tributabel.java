@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Tributabel {
+public interface Tributabel {
+    double getValorImposto();
 }

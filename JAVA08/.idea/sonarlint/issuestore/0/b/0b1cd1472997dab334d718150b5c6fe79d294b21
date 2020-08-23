@@ -1,8 +1,12 @@
 
-M
-java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8½ëÄ¿.
-]	java:S125"<This block of commented-out lines of code should be removed.( ÔÛ©úÿÿÿÿ8÷‡òÃ¿.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(úŒ è8Ó²€ñÀ.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×–âÓıÿÿÿÿ8ªš¬Ù½.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ò€ÌÅ¿.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(ƒÿøûûÿÿÿÿ8¥ˆ…Æ¿.
+]	java:S125"<This block of commented-out lines of code should be removed.( ÔÛ©úÿÿÿÿ8÷‡òÃ¿.
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8½ëÄ¿.
+S
+java:S1854"7Remove this useless assignment to local variable "sum".(½ÂÄl8İ‹ñÀ.
+D
+java:S1481"(Remove this unused "sum" local variable.(½ÂÄl8İ‹ñÀ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ş¹èøüÿÿÿÿ8İ‹ñÀ.

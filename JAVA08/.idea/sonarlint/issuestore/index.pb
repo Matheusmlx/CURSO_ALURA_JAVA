@@ -15,3 +15,9 @@ J
 Java08/src/TesteCurso.java,0/b/0b1cd1472997dab334d718150b5c6fe79d294b21
 N
 Java08/src/RevisaoLambdas.java,5/b/5b1ff2f25aefb4e94cbd518708be2054e8fb3b49
+D
+Java08/src/Data.java,a/b/abdab265e977124c0c2857f4cf41c44523c6039e
+I
+Java08/src/DataTeste.java,6/a/6a83bcdbb16b5ea809e0654b616b422cdc01ded8
+T
+$Java08/src/UtilizandoBigDecimal.java,d/7/d78da3f081fcf3fe7ca6fe12bb24a78e38790f3f
